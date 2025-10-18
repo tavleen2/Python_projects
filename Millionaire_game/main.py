@@ -1,5 +1,4 @@
 from questions import question_list
-import random
 
 prizes = ["10000", "20000", "30000", "40000", "50000", "100000", "2000000", "300000", "400000", "500000"]
 i=0
